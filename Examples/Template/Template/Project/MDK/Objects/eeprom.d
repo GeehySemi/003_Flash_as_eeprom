@@ -1,0 +1,15 @@
+.\objects\eeprom.o: ..\..\eeprom.c
+.\objects\eeprom.o: ..\..\eeprom.h
+.\objects\eeprom.o: ..\..\Include\main.h
+.\objects\eeprom.o: ..\..\..\..\..\Board\Board.h
+.\objects\eeprom.o: ..\..\..\..\..\Board\Board_APM32F003_MINI/Board_APM32F003_MINI.h
+.\objects\eeprom.o: ..\..\..\..\..\Library\Device\Geehy\APM32F00x\Include\apm32f00x.h
+.\objects\eeprom.o: ..\..\..\..\..\Library\CMSIS\Include\core_cm0plus.h
+.\objects\eeprom.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\eeprom.o: ..\..\..\..\..\Library\CMSIS\Include\cmsis_version.h
+.\objects\eeprom.o: ..\..\..\..\..\Library\CMSIS\Include\cmsis_compiler.h
+.\objects\eeprom.o: ..\..\..\..\..\Library\CMSIS\Include\cmsis_armcc.h
+.\objects\eeprom.o: ..\..\..\..\..\Library\APM32F00x_StdPeriphDriver\inc\apm32f00x_fmc.h
+.\objects\eeprom.o: ..\..\..\Template\eeprom.h
+.\objects\eeprom.o: ..\..\..\..\..\Library\APM32F00x_StdPeriphDriver\inc\apm32f00x_gpio.h
+.\objects\eeprom.o: ..\..\..\..\..\Library\APM32F00x_StdPeriphDriver\inc\apm32f00x_usart.h
